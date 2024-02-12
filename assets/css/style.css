@@ -5,7 +5,7 @@ html {
   }
   
   body {
-    font-family: 'Protest Riot', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 1.6rem;
   }
   
@@ -82,8 +82,7 @@ html {
   
   .project-image {
     width: 24rem;
-    height: 18rem;
-    margin-right: 2.5rem;
+    margin-right: 3rem;
     border-radius: 0.6rem;
   }
   
@@ -134,4 +133,8 @@ html {
   }
   .main {
     margin-bottom: 5rem;
+  }
+  .title {
+  
+font-family: 'Poppins', sans-serif;
   }
